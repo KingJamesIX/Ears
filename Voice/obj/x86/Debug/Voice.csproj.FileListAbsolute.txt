@@ -1,0 +1,6 @@
+F:\Desktop Dev\Droitech Games\Ears\Voice\bin\Debug\Voice.exe
+F:\Desktop Dev\Droitech Games\Ears\Voice\bin\Debug\Voice.pdb
+F:\Desktop Dev\Droitech Games\Ears\Voice\obj\x86\Debug\Voice.exe
+F:\Desktop Dev\Droitech Games\Ears\Voice\obj\x86\Debug\Voice.pdb
+F:\Desktop Dev\Droitech Games\Ears\bin\Voice.exe
+F:\Desktop Dev\Droitech Games\Ears\bin\Voice.pdb
